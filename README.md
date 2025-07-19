@@ -1,0 +1,13 @@
+Project 1- 
+Temperature based fan speed controller
+Submitted as Physics Team Project in Vellore Institute of Technology - Chennai
+For the academic year 2024-25. Submitted on 26-04-2025.
+Under the guidance of professor Dr. G Vinitha.
+files - 
+https://github.com/SuAsPra/IOT-Based-Projects/blob/main/I2C_checker_phy.ino
+https://github.com/SuAsPra/IOT-Based-Projects/blob/main/college_phy_project.ino
+
+link to project report - https://docs.google.com/document/d/11Zz4Az4bIiicb4xgTUcRmIWz6W_G9dq1pzzLlac8Ymc/edit?usp=sharing
+
+
+Project 2
