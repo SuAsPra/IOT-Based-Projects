@@ -34,3 +34,9 @@ https://github.com/SuAsPra/IOT-Based-Projects/blob/main/Digital_stopwatch.ino
 link to project report -
 https://docs.google.com/document/d/1VHc4WFqIcXMFZFPUYgJ6bT9BSliq3W3q/edit?usp=sharing&ouid=106560843370713755334&rtpof=true&sd=true
 
+Project 3
+Multipurpose Drone using Wokwi
+
+Currently in progress for project submission in ISL internship
+
+https://wokwi.com/projects/436110030379189249
