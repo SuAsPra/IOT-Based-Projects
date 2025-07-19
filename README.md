@@ -7,6 +7,7 @@ Submitted as Physics Team Project in Vellore Institute of Technology - Chennai.
 For the academic year 2024-25. Submitted on 26-04-2025.
 
 Under the guidance of professor Dr. G Vinitha.
+
 files - 
 
 https://github.com/SuAsPra/IOT-Based-Projects/blob/main/I2C_checker_phy.ino 
@@ -18,3 +19,17 @@ link to project report - https://docs.google.com/document/d/11Zz4Az4bIiicb4xgTUc
 
 
 Project 2
+
+DIgital Stopwatch
+
+Submitted as Digital System Design Team Project in Vellore Institute of Technology - Chennai.
+
+For the academic year 2024-25. Submitted on 17-04-2025.
+
+Under the guidance of professor Dr. Girija Shankar Sahoo.
+
+files-
+
+link to project report -
+https://docs.google.com/document/d/1VHc4WFqIcXMFZFPUYgJ6bT9BSliq3W3q/edit?usp=sharing&ouid=106560843370713755334&rtpof=true&sd=true
+
